@@ -5,4 +5,4 @@ date:   2016-01-16 01:32:50
 categories: jekyll update
 ---
 
-[website](/jdwang.ga.html)
+[website](/锐记货架.html)
